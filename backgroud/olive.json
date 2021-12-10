@@ -1,0 +1,29 @@
+// Allowed type are:
+//   - hex
+//   - rgb
+//   - name (CSS or HTML name)
+
+// First example with rgb type
+
+{
+"type" : "rgb",
+"red":128,
+"green":128,
+"blue":0,
+}
+
+// Second example with hex type
+
+{
+"type":"hex",
+"value":"808000",
+}
+
+// Third example with name type
+
+{
+"type": "name",
+"value": "olive",
+}
+
+
