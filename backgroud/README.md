@@ -8,7 +8,6 @@ NFT Generator allow **differents** types of input data:
 * jpg or jpeg 
 * json
 * toml
-* xml
 * yaml
 
 
@@ -19,7 +18,6 @@ See different example of config inside this folder
 olive.jpg
 olive.json
 olive.toml
-olive.xml
 olive.yaml
 ```
 
